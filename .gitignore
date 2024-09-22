@@ -20,7 +20,7 @@ dist-ssr/
 # Build directories
 build/
 tmp/
-
+.env
 # OS-specific files
 .DS_Store
 
